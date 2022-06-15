@@ -1,4 +1,17 @@
+
+body {
+    
+    background-color: linear-gradient(to right, #ffe6e6, #e6e6ff);
+    
+}
 img {
-height: 40%;
-width: 60%;
+height: 25%;
+width: 40%;
+}
+
+p {
+margin-top: 85px;
+margin-bottom: 100px;
+margin-right: 130px;
+margin-left: 100px;
 }
