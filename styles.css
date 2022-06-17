@@ -1,9 +1,10 @@
 
 body {
     
-    background-color: linear-gradient(to right, #ffe6e6, #e6e6ff);
+    background-color: linear-gradient(to right, #ff99cc, #b3b3ff);
     
 }
+
 img {
 height: 25%;
 width: 40%;
@@ -14,4 +15,12 @@ margin-top: 85px;
 margin-bottom: 100px;
 margin-right: 130px;
 margin-left: 100px;
+}
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color: green;
 }
