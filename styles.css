@@ -2,7 +2,15 @@
 body {
     
     background-color: linear-gradient(to right, #ff99cc, #b3b3ff);
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-right: 8px;
+    margin-left: 8px;
+
     
+}
+div {
+    padding: 30px 35px;
 }
 
 img {
