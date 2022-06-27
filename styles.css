@@ -1,1 +1,34 @@
-/* Write your CSS here! */
+
+body {
+    
+    background-color: linear-gradient(to right, #ff99cc, #b3b3ff);
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-right: 8px;
+    margin-left: 8px;
+
+    
+}
+div {
+    padding: 30px 35px;
+}
+
+img {
+height: 25%;
+width: 40%;
+}
+
+p {
+margin-top: 85px;
+margin-bottom: 100px;
+margin-right: 130px;
+margin-left: 100px;
+}
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color: green;
+}
